@@ -14,7 +14,7 @@
 ## 🚀 Проєкти
 
 ### 🛒 Web: 
--[Web Marketpace Demo](https://github.com/sadef21/marketplace-demo)
+#[Web Marketpace Demo](https://github.com/sadef21/marketplace-demo)
 Маркетплейс з реєстрацією, фільтрацією товарів, адмінкою
 
 
